@@ -4,7 +4,7 @@ This is a code I used in following video:
 
 Crystal plasticity simulations of Magnesium polycrystal using DAMASK | Twinning in Mg
 
-Link of video: https://youtu.be/aG88Ysd56H4
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
